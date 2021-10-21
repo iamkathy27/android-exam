@@ -1,0 +1,67 @@
+<resources>
+    <style name="Font">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:lineSpacingExtra">4dp</item>
+    </style>
+
+    <style name="FontNoSize">
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:lineSpacingExtra">4dp</item>
+    </style>
+
+    <style name="Font10Normal" parent="@style/Font">
+        <item name="android:textSize">10sp</item>
+    </style>
+
+    <style name="Font12Normal" parent="@style/Font">
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="Font13Normal" parent="@style/Font">
+        <item name="android:textSize">13sp</item>
+    </style>
+
+    <style name="Font14Normal" parent="@style/Font">
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="Font16Normal" parent="@style/Font">
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="Font17Normal" parent="@style/Font">
+        <item name="android:textSize">17sp</item>
+    </style>
+
+    <style name="Font18Normal" parent="@style/Font">
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="Font20Normal" parent="@style/Font">
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="Font22Normal" parent="@style/Font">
+        <item name="android:textSize">22sp</item>
+    </style>
+
+    <style name="Font24Normal" parent="@style/Font">
+        <item name="android:textSize">24sp</item>
+    </style>
+
+    <style name="Font26Normal" parent="@style/Font">
+        <item name="android:textSize">26sp</item>
+    </style>
+
+    <style name="Font32Normal" parent="@style/Font">
+        <item name="android:textSize">32sp</item>
+    </style>
+
+    <style name="Font30Normal" parent="@style/Font">
+        <item name="android:textSize">30sp</item>
+    </style>
+
+</resources>
